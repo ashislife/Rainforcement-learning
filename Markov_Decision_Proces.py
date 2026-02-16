@@ -148,3 +148,8 @@ for i in range(50):
 print(f"\nOptimal values for 3-state MDP:")
 for state in states_ext:
     print(f"  V({state}) = {V_ext[state]:.4f}")
+
+
+
+
+
